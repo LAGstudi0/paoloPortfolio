@@ -5,7 +5,6 @@
   "private": "true",
   "scripts": {
     "paoloPortfolio": "git subtree push --prefix dist origin gh-pages"
-    "build": "webpack"
   },
   "repository": {
     "type": "git",
